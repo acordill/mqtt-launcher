@@ -1,2 +1,8 @@
 launcher.conf
 logfile
+both-off.py
+both-on.py
+dvi-on.py
+dvi-off.py
+vga-off.py
+vga-on.py
